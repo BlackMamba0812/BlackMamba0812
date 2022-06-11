@@ -1,16 +1,31 @@
-### Hi there 👋
+### Olá, eu sou Lucas Moreira ✌🏾✊🏾
 
-<!--
-**BlackMamba0812/BlackMamba0812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 Estou atualmente em transição de carreira
+- 🌱 Estudando Kotlin com Andoid Studio
+- 📫 lukazin081217@gmail.com / luuhnathi17@gmail.com
+- 😄 Pronouns: ele/dele
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div align="center">
+  <a href="https://github.com/BlackMamba0812">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BlackMamba0812&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackMamba0812&layout=compact&langs_count=7&theme=gruvbox"/>
+</div>
+  
+  <div style="display: inline_block"><br>
+   <img align="center" alt="mamba-kt" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+   <img align="center" alt="mamba-kt" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
+   <img align="center" alt="mamba-kt" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
+  </div>  
+    
+
+   ## 
+  
+  <div>
+    <a href="https://www.linkedin.com/in/lucas-moreira-50aa8b216?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BXSm1pf34TY2PDs%2FekskZNg%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href = "luuhnathi17@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    
+    
+    
+ 
