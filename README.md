@@ -1,8 +1,9 @@
-### Olá, eu sou Lucas Moreira ✌🏾✊🏾
+### Olá, eu sou Lucas Moreira, e sou um Dev. Mobile ✌🏾✊🏾
 
 
-- 🔭 Estou atualmente em transição de carreira
+- 🔭 Em transição de carreira para área de tecnologia
 - 🌱 Estudando Kotlin com Andoid Studio
+- 💻📲 Desenvolvedor Mobile
 - 📫 lukazin081217@gmail.com / luuhnathi17@gmail.com
 - 😄 Pronouns: ele/dele
 
